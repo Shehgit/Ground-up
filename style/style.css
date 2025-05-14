@@ -818,9 +818,9 @@ footer .socials a:nth-child(4){
 
 hr{
   width: 100%;
-  border-top: 2px;
-  margin-top: 44.19px;
-  margin-bottom: 41px;
+  /* border-top: 2px; */
+  /* margin-top: 44.19px;
+  margin-bottom: 41px; */
 }
 
 footer p{
@@ -995,9 +995,9 @@ footer .link{
 }
 
 hr{
-   border-top: var(--bs-border-width) solid;
-   margin-top: 20px;
-   margin-bottom: 20px;
+   /* border-top: var(--bs-border-width) solid; */
+   /* margin-top: 20px; */
+   /* margin-bottom: 20px; */
 }
 
 footer .logo{
